@@ -22,6 +22,8 @@ my sugestion is to use sudo because then you know you're good <br />
 Btw. when you get an error: please first try to excecute the command without sudo, for example: <br />
 `$ bash testscript` <br />
 
+#Install
+
 We will create a lot of fast scripts so you can clone them AND use them.<br />
 To do this folow these steps:<br />
 1. Open a new teriminal window and type the following command:<br />
