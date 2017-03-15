@@ -25,5 +25,7 @@ btw. when you get an error: please first try the excecute command without sudo, 
 We will create a lot of fast scripts so you can clone them AND use them.
 To do this folow these steps:
 1. Open a new teriminal windows and type the following command:
-`$ git clone !!!!!!!!!`
-Now linux will copy 
+`$ git clone https://github.com/Circulair/Fast_Scripts.git`
+Now linux will copy this git to your pc, you can find in the direcory immidiatly when you open "files"
+I recommend to replace this file and place it on your desktop.
+Now you can run these scripts, but 
