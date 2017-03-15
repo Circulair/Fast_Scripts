@@ -21,3 +21,9 @@ now your script will be excecuted. <br />
 my sugestion is to use sudo because the you know you're good <br />
 btw. when you get an error: please first try the excecute command without sudo, for example: <br />
 `$ bash testscript` <br />
+
+We will create a lot of fast scripts so you can clone them AND use them.
+To do this folow these steps:
+1. Open a new teriminal windows and type the following command:
+`$ git clone !!!!!!!!!`
+Now linux will copy 
