@@ -18,14 +18,14 @@ now open a terminal window and type the following commands: (without the $) <br 
 Now choose a script you want to excecute: for example: testscript <br />
 `$ sudo bash testscript` <br />
 now your script will be excecuted. <br />
-my sugestion is to use sudo because the you know you're good <br />
-btw. when you get an error: please first try the excecute command without sudo, for example: <br />
+my sugestion is to use sudo because then you know you're good <br />
+Btw. when you get an error: please first try to excecute the command without sudo, for example: <br />
 `$ bash testscript` <br />
 
-We will create a lot of fast scripts so you can clone them AND use them.
-To do this folow these steps:
-1. Open a new teriminal windows and type the following command:
-`$ git clone https://github.com/Circulair/Fast_Scripts.git`
-Now linux will copy this git to your pc, you can find in the direcory immidiatly when you open "files"
-I recommend to replace this file and place it on your desktop.
-Now you can run these scripts, but 
+We will create a lot of fast scripts so you can clone them AND use them.<br />
+To do this folow these steps:<br />
+1. Open a new teriminal windows and type the following command:<br />
+`$ git clone https://github.com/Circulair/Fast_Scripts.git`<br />
+Now linux will copy this git to your pc, you can find in the direcory immidiatly when you open "files"<br />
+I recommend to replace this file and place it on your desktop.<br />
+Now you can run these scripts, but <br />
