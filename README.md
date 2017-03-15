@@ -4,7 +4,7 @@ These scripts works with Kali Linux!
 
 These are created to make a sort of shortcuts: <br />
 You can excecute these 'fast scripts' with the following command: <br />
-"sudo bash <directory to script>" <br />
+"sudo bash [directory to script]" <br />
 If you want to excecute the script by administrator A.K.A. root, <br />
 then you need the "sudo" command (displayed above) <br />
 If you're smart: create a folder on your desktop named: fastscripts <br />
