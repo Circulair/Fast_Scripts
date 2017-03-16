@@ -38,10 +38,10 @@ Now linux will copy this git to your pc, you can find in the direcory immidiatly
 
 There are many types of adapters, my adapters called `wlan0` and `eth0`.
 On every pc is there a difference adapter name possible, to identify the name of your adapter:
-1. Open a new terminal window and type the following command: `ifconfig`.
+1. Open a new terminal window and type the following command: `$ ifconfig`.
 (if you get an error: please be sure you have an internet connection and update your 
-system by enter this command: `apt-get update`. 
+system by enter this command: `$ apt-get update`. 
 Wait until you see your line that means you can put a new command in, now close the terminal.)
 2. Now you can see a few adapters like "wlan0" and "eth0". (your adapters are your hardware, for example:
 eth0 is your Ethernet port and wlan0 is your wifi hardware (wireless internet connection))
-The name's of the adapters are displayed and now you can change the default commands to _your_ adapter names.
+The name's of the adapters are displayed and now you can change the default commands to **_your_** adapter names.
