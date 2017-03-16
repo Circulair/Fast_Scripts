@@ -51,13 +51,13 @@ The name's of the adapters are displayed and now you can change the default comm
 
 Python is an other programming langwich, and it have more capability's.<br />
 to run the python scripts, folow these steps:<br />
-1. Go to your directory where the python file is located with the `$ cd` command. (if you don't know anymore,<br />
-on the top of this README.md file is the guide)<br />
+1. Go to your directory where the python file is located with the `$ cd` command. 
+(if you don't know anymore, on the top of this README.md file is the guide)<br />
 2. Now you type in: `$ python testscript.py`.<br />
 = The command python means: run python. testscript.py means: the python script you want to run. 
 (you need to care that your file is ending on `.py`.<br />
 3. Now your script is running!<br />
 
 My recommendation is: when you have a long file name or just want to type a bit faster: type the first characters of <br />
-the filename and just enter "Tab". The filename appears on your screen. BUT when your first charcters are matching <br />
+the filename and just enter "Tab". The filename appears on your screen. **BUT** when your first charcters are matching <br />
 with other filenames it won't show up: you need to specifie the name a bit more. <br />
