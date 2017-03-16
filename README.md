@@ -36,12 +36,28 @@ Now linux will copy this git to your pc, you can find in the direcory immidiatly
 
 ### Types of adapters
 
-There are many types of adapters, my adapters called `wlan0` and `eth0`.
-On every pc is there a difference adapter name possible, to identify the name of your adapter:
-1. Open a new terminal window and type the following command: `$ ifconfig`.
-(if you get an error: please be sure you have an internet connection and update your 
-system by enter this command: `$ apt-get update`. 
-Wait until you see your line that means you can put a new command in, now close the terminal.)
-2. Now you can see a few adapters like "wlan0" and "eth0". (your adapters are your hardware, for example:
-eth0 is your Ethernet port and wlan0 is your wifi hardware (wireless internet connection))
-The name's of the adapters are displayed and now you can change the default commands to **_your_** adapter names.
+There are many types of adapters, my adapters called `wlan0` and `eth0`.<br />
+On every pc is there a difference adapter name possible, to identify the name of your adapter:<br />
+1. Open a new terminal window and type the following command: `$ ifconfig`.<br />
+(if you get an error: please be sure you have an internet connection and update your <br />
+system by enter this command: `$ apt-get update`. <br />
+Wait until you see your line that means you can put a new command in, now close the terminal.)<br />
+2. Now you can see a few adapters like "wlan0" and "eth0". (your adapters are your hardware, for example:<br />
+eth0 is your Ethernet port and wlan0 is your wifi hardware (wireless internet connection))<br />
+The name's of the adapters are displayed and now you can change the default commands to **_your_** adapter names.<br />
+
+
+### Python
+
+Python is an other programming langwich, and it have more capability's.<br />
+to run the python scripts, folow these steps:<br />
+1. Go to your directory where the python file is located with the `cd` command. (if you don't know anymore,<br />
+on the top of this README.md file is the guide)<br />
+2. Now you type in: `python testscript.py`.<br />
+= The command python means: run python. testscript.py means: the python script you want to run. 
+(you need to care that your file is ending on `.py`.<br />
+3. Now your script is running!<br />
+
+My recommendation is: when you have a long file name or just want to type a bit faster: type the first characters of <br />
+the filename and just enter "Tab". The filename appears on your screen. BUT when your first charcters are matching <br />
+with other filenames it won't show up: you need to specifie the name a bit more. <br />
