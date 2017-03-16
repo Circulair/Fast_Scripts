@@ -20,7 +20,7 @@ Now choose a script you want to excecute: for example: testscript <br />
 now your script will be excecuted. <br />
 my sugestion is to use sudo because then you know you're good <br />
 Btw. when you get an error: please first try to excecute the command without sudo, for example: <br />
-`$ bash testscript` <br />
+`$ bash testscript.sh` <br />
 
 
 ### Install
