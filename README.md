@@ -51,9 +51,9 @@ The name's of the adapters are displayed and now you can change the default comm
 
 Python is an other programming langwich, and it have more capability's.<br />
 to run the python scripts, folow these steps:<br />
-1. Go to your directory where the python file is located with the `cd` command. (if you don't know anymore,<br />
+1. Go to your directory where the python file is located with the `$ cd` command. (if you don't know anymore,<br />
 on the top of this README.md file is the guide)<br />
-2. Now you type in: `python testscript.py`.<br />
+2. Now you type in: `$ python testscript.py`.<br />
 = The command python means: run python. testscript.py means: the python script you want to run. 
 (you need to care that your file is ending on `.py`.<br />
 3. Now your script is running!<br />
