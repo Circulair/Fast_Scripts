@@ -37,7 +37,7 @@ Now linux will copy this git to your pc, you can find it in the direcory immidia
 ### Types of adapters
 
 There are many types of adapters, my adapters called `wlan0` and `eth0`.<br />
-On every pc is there a difference adapter name possible, to identify the name of your adapter:<br />
+On every pc is there a different adapter name possible, to identify the name of your adapter:<br />
 1. Open a new terminal window and type the following command: `$ ifconfig`.<br />
 (if you get an error: please be sure you have an internet connection and update your <br />
 system by enter this command: `$ apt-get update`. <br />
