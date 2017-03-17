@@ -29,7 +29,7 @@ We will create a lot of fast scripts so you can clone them AND use them.<br />
 To do this folow these steps:<br />
 1. Open a new teriminal window and type the following command:<br />
 `$ git clone https://github.com/Circulair/Fast_Scripts.git`<br />
-Now linux will copy this git to your pc, you can find in the direcory immidiatly when you open "files"<br />
+Now linux will copy this git to your pc, you can find it in the direcory immidiatly when you open "files"<br />
 2. I recommend to replace this file and place it on your desktop.<br />
 3. Now you can run these scripts by follow the steps shown above. <br />
 
